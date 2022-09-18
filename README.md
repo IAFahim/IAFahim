@@ -22,7 +22,7 @@ Making a **2D** game with **Webgl** and Server with **GoLang**
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
-- Indie Developer developed 1 games
+- Indie Developer developed ![1 games](https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing). Haven't worked ever since wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid.
 - Handled optimization issues related to mobile development.
 - Graphic design skills: Adobe Illustrator, Adobe Animate, Adobe
 Photoshop. Was InCharge of NSUACM Promotion team for 2 years.
@@ -45,6 +45,4 @@ Community where I can be with people who are interested in Creating software wit
 
 Mail: `ishtiaq.fahim@northsouth.edu`
 Phone: `+8801772527556`
-
-### I Have built:
-
+Address: `Uttara, Dhaka 1230`
