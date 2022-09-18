@@ -1,4 +1,4 @@
-![https://github.com/IAFahim](/index.png)
+![https://github.com/IAFahim](https://github.com/IAFahim/IAFahim/blob/main/index.png)
 ### Md. Ishtiaq Ahamed Fahim
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,react,html,css,supabase,ai,ae&theme=light)
 
@@ -18,7 +18,7 @@ Making a **2D** game with **Webgl** and Server with **GoLang**
 
 ### I’m currently learning
 
-`Golang` `Competitive Programming` `WebSocket` `React` `Three.js`
+`Golang`, `Competitive Programming`, `WebSocket`, `React`, `Three.js`
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
