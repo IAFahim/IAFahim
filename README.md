@@ -1,5 +1,9 @@
-![https://github.com/IAFahim](https://github.com/IAFahim/IAFahim/blob/main/index.png)
+<a href="https://github.com/IAFahim">
+  <img align="center" src="https://imgur.com/tIVIdI3.png" />
+</a> 
+
 ### Md. Ishtiaq Ahamed Fahim
+
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,react,html,css,supabase,ai,ae&theme=light)
 
 ![image](https://user-images.githubusercontent.com/63500913/190918575-44fd7fb3-d965-4947-8dbe-8511b4fd3d4f.png)
@@ -22,9 +26,9 @@ Making a **2D** game with **Webgl** and Server with **GoLang**
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
-- Indie Developer developed ![1 games](https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing). Haven't worked ever since, wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid. But I would do good.
+- Indie Developer developed <a href="https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing">1 games</a>. Haven't worked ever since, wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid. But I would do good.
 - Handled optimization issues related to mobile development.
-- Graphic design skills: ![Adobe Illustrator, Adobe Animate](https://drive.google.com/drive/folders/1Piy9SjN9PXbOmY_SZWfGuLP9nb8eHqOx?usp=sharing), Adobe Photoshop. Ex InCharge of NSUACM Promotion team for 2 years.
+- Graphic design skills: <a href="https://drive.google.com/drive/folders/1Piy9SjN9PXbOmY_SZWfGuLP9nb8eHqOx?usp=sharing">Adobe Illustrator, Adobe Animate</a>, Adobe Photoshop. Ex InCharge of NSUACM Promotion team for 2 years.
 
 ### I’m looking to collaborate on
 
