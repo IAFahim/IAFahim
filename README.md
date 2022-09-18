@@ -1,4 +1,4 @@
-![](/index.png)
+![https://github.com/IAFahim](/index.png)
 ### Md. Ishtiaq Ahamed Fahim
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,react,html,css,supabase,ai,ae&theme=light)
 
@@ -22,7 +22,7 @@ Making a **2D** game with **Webgl** and Server with **GoLang**
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
-- Indie Developer developed ![1 games](https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing). Haven't worked ever since wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid.
+- Indie Developer developed ![1 games](https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing). Haven't worked ever since, wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid. But I would do good.
 - Handled optimization issues related to mobile development.
 - Graphic design skills: ![Adobe Illustrator, Adobe Animate](https://drive.google.com/drive/folders/1Piy9SjN9PXbOmY_SZWfGuLP9nb8eHqOx?usp=sharing), Adobe Photoshop. Ex InCharge of NSUACM Promotion team for 2 years.
 
