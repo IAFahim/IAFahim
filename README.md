@@ -24,8 +24,7 @@ Making a **2D** game with **Webgl** and Server with **GoLang**
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
 - Indie Developer developed ![1 games](https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing). Haven't worked ever since wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid.
 - Handled optimization issues related to mobile development.
-- Graphic design skills: Adobe Illustrator, Adobe Animate, Adobe
-Photoshop. Was InCharge of NSUACM Promotion team for 2 years.
+- Graphic design skills: Adobe Illustrator, Adobe Animate, Adobe Photoshop. Was InCharge of NSUACM Promotion team for 2 years.
 
 ### I’m looking to collaborate on
 
@@ -33,11 +32,14 @@ Community where I can be with people who are interested in Creating software wit
 
 ### How to reach me 
 
-<a href="mailto:ishtiaq.fahim@northsouth.edu">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/IAFahim">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/pro-grammer-pro-grammer-863761195/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ishtiaq.fahim@northsouth.edu">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/IAFahim">
   <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
