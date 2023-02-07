@@ -4,7 +4,7 @@
 
 ### Md. Ishtiaq Ahamed Fahim
 
-![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,react,html,css,supabase,ai,ae&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,deno,svelte,react,html,css,supabase,ai,ae&theme=light)
 
 ![image](https://user-images.githubusercontent.com/63500913/217165087-3cfa0db5-abd4-4183-959e-974c12a9a51f.png)
 
