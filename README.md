@@ -6,7 +6,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,react,html,css,supabase,ai,ae&theme=light)
 
-![image](https://user-images.githubusercontent.com/63500913/190918575-44fd7fb3-d965-4947-8dbe-8511b4fd3d4f.png)
+![image](https://user-images.githubusercontent.com/63500913/217165087-3cfa0db5-abd4-4183-959e-974c12a9a51f.png)
+
 
 ### EDUCATION
 
