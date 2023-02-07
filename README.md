@@ -12,18 +12,18 @@
 ### EDUCATION
 
 **`North South University`**
-: Currently studying in in **ECE** department majoring In CSE (CGPA 3.41)
+: Currently studying in in **ECE** department majoring In CSE (CGPA 3.31)
 
 - **Nationality:** Bangladeshi
 - **Date of Birth**: 28/5/1999
 
-### I’m currently working on
+### I’m currently 
 
-Making a **2D** game with **Webgl** and Server with **GoLang**
+Learning Neural network, and Unity
 
 ### I’m currently learning
 
-`Golang`, `Competitive Programming`, `WebSocket`, `React`, `Three.js`
+`Unity`, `Competitive Programming`, `Rust`, `Svelte`
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
@@ -52,4 +52,4 @@ Community where I can be with people who are interested in Creating software wit
 
 Mail: `ishtiaq.fahim@northsouth.edu`
 Phone: `+8801772527556`
-Address: `Uttara, Dhaka 1230`
+Address: `Dhaka, Bangladesh`
