@@ -22,7 +22,7 @@
 Learning Neural network, and Unity
 
 
-### Hightlight
+### Highlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
 - Jr. Game System Engineer at [NovaLabs.GG](https://novalabs.gg)
 - System Development, Optimization & Problem Solver.
