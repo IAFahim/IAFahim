@@ -26,7 +26,7 @@ Learning Neural network, and Unity
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
 - Jr. Game System Engineer at [NovaLabs.GG](https://novalabs.gg)
 - System Development, Optimization & Problem Solver.
-- Graphic design skills: <a href="https://drive.google.com/drive/folders/1Piy9SjN9PXbOmY_SZWfGuLP9nb8eHqOx?usp=sharing">Adobe Illustrator, Adobe Animate</a>, Adobe Photoshop. Ex InCharge of NSUACM Promotion team for 2 years.
+- Graphic design skills: Adobe Illustrator, Adobe Animate, Figma. Ex InCharge of NSUACM Promotion team for 2 years.
 
 ### I’m looking to collaborate on
 
