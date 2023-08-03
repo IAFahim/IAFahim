@@ -12,7 +12,7 @@
 ### EDUCATION
 
 **`North South University`**
-: Currently studying in in **ECE** department majoring In CSE (CGPA 3.31)
+: Currently studying in **ECE** department majoring In CSE (CGPA 3.31)
 
 - **Nationality:** Bangladeshi
 - **Date of Birth**: 28/5/1999
