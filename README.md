@@ -6,7 +6,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,deno,svelte,react,html,css,supabase,ai,ae&theme=light)
 
-![image](https://user-images.githubusercontent.com/63500913/217165087-3cfa0db5-abd4-4183-959e-974c12a9a51f.png)
+![Screenshot 2023-08-03 at 20-27-56 OSS Insight](https://github.com/IAFahim/IAFahim/assets/63500913/a593a7d1-cc63-4d51-9eb3-608557438020)
 
 
 ### EDUCATION
@@ -21,14 +21,11 @@
 
 Learning Neural network, and Unity
 
-### I’m currently learning
-
-`Unity`, `Competitive Programming`, `Rust`, `Svelte`
 
 ### Hightlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
-- Indie Developer developed <a href="https://drive.google.com/file/d/1LSV949-ONbzkXraArd3nVCzQoEAwUBKi/view?usp=sharing">1 games</a>. Haven't worked ever since, wanted to learn all Fundamentals. You guys need to help me a little, ok. Till I get through the adjustment prebid. But I would do good.
-- Handled optimization issues related to mobile development.
+- Jr. Game System Engineer at [NovaLabs.GG](https://novalabs.gg)
+- System Development, Optimization issues & Problem Solver.
 - Graphic design skills: <a href="https://drive.google.com/drive/folders/1Piy9SjN9PXbOmY_SZWfGuLP9nb8eHqOx?usp=sharing">Adobe Illustrator, Adobe Animate</a>, Adobe Photoshop. Ex InCharge of NSUACM Promotion team for 2 years.
 
 ### I’m looking to collaborate on
