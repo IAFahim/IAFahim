@@ -18,7 +18,7 @@
 - **Date of Birth**: 28/5/1999
 
 ### I’m currently 
-Working as Game System Engineer at [NovaLabs.GG]()](https://novalabs.gg/)
+Working as Game System Engineer at [NovaLabs.GG](https://novalabs.gg/)
 
 
 ### Highlight
