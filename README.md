@@ -18,15 +18,15 @@
 - **Date of Birth**: 28/5/1999
 
 ### I’m currently 
-
-Learning Neural network, and Unity
+Working as Game System Engineer at [NovaLabs.GG]()](https://novalabs.gg/)
 
 
 ### Highlight
 - **C#** programmer For **Unity** 4 years of experience (2016-2020) Before University.
 - Jr. Game System Engineer at [NovaLabs.GG](https://novalabs.gg)
 - System Development, Optimization & Problem Solver.
-- Graphic design skills: Adobe Illustrator, Adobe Animate, Figma. Ex InCharge of NSUACM Promotion team for 2 years.
+- Graphic design skills: Adobe Illustrator, Figma.
+- Ex InCharge of NSUACM Promotion team for 2 years.
 
 ### I’m looking to collaborate on
 
