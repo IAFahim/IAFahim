@@ -6,7 +6,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,deno,svelte,react,html,css,supabase,ai,ae&theme=light)
 
-![Screenshot 2023-08-03 at 20-27-56 OSS Insight](https://github.com/IAFahim/IAFahim/assets/63500913/a593a7d1-cc63-4d51-9eb3-608557438020)
+![Screenshot 2024-01-15 at 12-59-39 OSS Insight](https://github.com/IAFahim/IAFahim/assets/63500913/33a06b7c-d425-41be-af5b-d7e60150827d)
 
 
 ### EDUCATION
