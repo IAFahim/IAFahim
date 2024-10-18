@@ -10,8 +10,6 @@
 
 **Email:** iafahim.dev@gmail.com 
 
-**Phone:** +8801772527556 
-
 **LinkedIn:** https://www.linkedin.com/in/iafahim/
 
 **GitHub:** https://github.com/IAFahim
