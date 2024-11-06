@@ -85,5 +85,4 @@ Community where I can be with people who are interested in Creating software wit
 </a>
 
 Mail: `ishtiaq.fahim@northsouth.edu`
-Phone: `+8801772527556`
 Address: `Dhaka, Bangladesh`
