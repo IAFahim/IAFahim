@@ -83,6 +83,3 @@ Community where I can be with people who are interested in Creating software wit
 <a href="https://t.me/IAFahim">
   <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
-Mail: `ishtiaq.fahim@northsouth.edu`
-Address: `Dhaka, Bangladesh`
