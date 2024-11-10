@@ -9,8 +9,11 @@
 ![Screenshot 2024-01-15 at 12-59-39 OSS Insight](https://github.com/IAFahim/IAFahim/assets/63500913/33a06b7c-d425-41be-af5b-d7e60150827d)
 
 **Email:** iafahim.dev@gmail.com 
+
 **LinkedIn:** https://www.linkedin.com/in/iafahim/
+
 **GitHub:** https://github.com/IAFahim
+
 **Location:** Bashundhara R/A, Dhaka, Bangladesh
 
 ## Summary
