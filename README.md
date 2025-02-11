@@ -83,3 +83,8 @@ Community where I can be with people who are interested in Creating software wit
 <a href="https://t.me/IAFahim">
   <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+</br>
+<a href="https://count.getloli.com">
+  <img width=400 align="center" src="https://count.getloli.com/@IAFahim?name=IAFahim&theme=normal-1&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+</a>
