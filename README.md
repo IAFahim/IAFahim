@@ -1,10 +1,11 @@
 <a href="https://github.com/IAFahim">
-  <img align="center" src="https://imgur.com/tIVIdI3.png" />
-</a> 
-
-### Md. Ishtiaq Ahamed Fahim
-
-![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,deno,svelte,react,html,css,supabase,ai,ae&theme=light)
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=IAFahim&data=followers,repositories,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
+</a>
+<p align="center">
+  <a href="https://github.com/IAFahim">
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,go,cpp,python,postgres,unity,rust,deno,svelte,react,html,css,supabase,ai,ae&theme=dark" width="100%" height="0%"/>
+  </a>
+</p>
 
 ![Screenshot 2024-01-15 at 12-59-39 OSS Insight](https://github.com/IAFahim/IAFahim/assets/63500913/33a06b7c-d425-41be-af5b-d7e60150827d)
 
@@ -83,6 +84,7 @@ Community where I can be with people who are interested in Creating software wit
 <a href="https://t.me/IAFahim">
   <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
 
 </br>
 <a href="https://count.getloli.com">
